@@ -151,20 +151,6 @@ weighted avg       1.00      1.00      1.00       200
 
 ---
 
-## 📁 Project Structure
-
-```
-MediTrack/
-├── app.py                # Streamlit app
-├── rf_cls.pkl            # Random Forest model
-├── xgb_cls.pkl           # XGBoost model
-├── dataset.csv           # Sample dataset
-├── README.md             # Project documentation
-└── requirements.txt      # Required libraries
-```
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository.
