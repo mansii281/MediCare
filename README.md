@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
@@ -40,9 +39,9 @@ Predictions are computed from **Random Forest** and **XGBoost**, optionally aver
 
 ---
 
-## 🔬 SHAP Feature Importance
+## 🔬 Feature Importance
 
-* SHAP explains how **each feature contributes** to the risk prediction.
+* Explains how **each feature contributes** to the risk prediction.
 * Highlights **most influential health metrics** for clinicians.
 
 ---
@@ -166,13 +165,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-5. Enter patient health information to view **risk assessment**, **SHAP feature importance**, and **download PDF report**.
+5. Enter patient health information to view **risk assessment**, **Feature importance**, and **download PDF report**.
 
 ---
 
 ## 🔗 References
-
-* [SHAP Documentation](https://shap.readthedocs.io/)
 * [Streamlit Documentation](https://docs.streamlit.io/)
 * [XGBoost Documentation](https://xgboost.readthedocs.io/)
 
