@@ -11,7 +11,7 @@
 
 * Uses **Random Forest** and **XGBoost** classifiers.
 * Supports **hybrid averaging** for improved accuracy.
-* Provides **explainable insights** via **SHAP**.
+* Provides **explainable insights**
 * Generates **interactive dashboards** and **PDF medical reports**.
 
 ---
