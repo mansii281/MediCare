@@ -154,19 +154,19 @@ weighted avg       1.00      1.00      1.00       200
 ## 🚀 How to Run
 
 1. Clone the repository.
-2. Install requirements:
+2. Create and activate your Python virtual environemnt.
+3. Install requirements:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-3. Run the app:
+4. Run the app:
 
 ```bash
 streamlit run app.py
 ```
 
-4. Enter patient health information to view **risk assessment**, **SHAP feature importance**, and **download PDF report**.
+5. Enter patient health information to view **risk assessment**, **SHAP feature importance**, and **download PDF report**.
 
 ---
 
